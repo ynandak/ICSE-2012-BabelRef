@@ -9,7 +9,7 @@ This repository _is not_ the original repository for this tool. Here are some li
 
 In this repository, for ExampleTool you will find:
 * :white_check_mark: Source code
-* :white_check_mark: [The original tool](edu.iastate.hungnv.babelref.jar, Data_Model.jar, Html_Partial_Parser.jar, Util.jar, Web_Entities.jar)
-* :white_check_mark: [A slightly modified version of the tool](AnotherExecutableInTheRepo) [Mohammed H Hassan](https://github.com/mhhassan) got working
+* :white_check_mark: The original tool
+* :white_check_mark: A slightly modified version of the tool [Mohammed H Hassan](https://github.com/mhhassan) got working
 
-This repository was constructed by [Mohammed H Hassan](https://github.com/mhhassan) under the supervision of [Emerson Murphy-Hill](https://github.com/CaptainEmerson). Thanks to Hung Viet Nguyen(http://home.engineering.iastate.edu/~hungnv/Personal/) for his help in establishing this repository. 
+This repository was constructed by [Mohammed H Hassan](https://github.com/mhhassan) under the supervision of [Emerson Murphy-Hill](https://github.com/CaptainEmerson). Thanks to [Hung Viet Nguyen](http://home.engineering.iastate.edu/~hungnv/Personal/) for his help in establishing this repository. 

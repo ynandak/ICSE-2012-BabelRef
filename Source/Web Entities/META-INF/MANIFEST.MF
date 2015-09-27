@@ -1,0 +1,16 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Web_Entities
+Bundle-SymbolicName: Web_Entities
+Bundle-Version: 1.0.0.qualifier
+Export-Package: babelref,
+ constraints,
+ entities,
+ references,
+ references.detection
+Require-Bundle: Html_Partial_Parser;bundle-version="1.0.0",
+ Util;bundle-version="1.0.0",
+ Data_Model;bundle-version="1.0.0",
+ org.eclipse.wst.jsdt.core;bundle-version="1.1.100",
+ org.eclipse.core.runtime;bundle-version="3.11.0"
+Bundle-RequiredExecutionEnvironment: JavaSE-1.8

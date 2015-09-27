@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?eclipse version="3.4"?>
+<plugin>
+   <extension
+         point="org.eclipse.ui.popupMenus">
+      <viewerContribution
+            id="edu.iastate.hungnv.babelref.viewerContribution.Rename"
+            targetID="org.eclipse.php.core.phpsource.source.EditorContext">
+         <action
+               class="edu.iastate.hungnv.babelref.ui.actions.RenameAction"
+               id="edu.iastate.hungnv.babelref.ui.actions.RenameAction"
+               label="BabelRef Rename"
+               menubarPath="additions">
+         </action>
+      </viewerContribution>
+   </extension>
+   <extension
+         point="org.eclipse.ui.views">
+      <category
+            id="edu.iastate.hungnv.babelref.category.BabelRef"
+            name="BabelRef">
+      </category>
+      <category
+            id="edu.iastate.hungnv.babelref.category.ERef"
+            name="ERef">
+      </category>
+      <category
+            id="edu.iastate.hungnv.babelref.category.DataModel"
+            name="Data Model">
+      </category>
+      <view
+            category="edu.iastate.hungnv.babelref.category.ERef"
+            class="edu.iastate.hungnv.babelref.ui.views.ERefEntityView"
+            icon="icons/plugins.gif"
+            id="edu.iastate.hungnv.babelref.ui.views.ERefEntityView"
+            name="ERef Entity View"
+            restorable="true">
+      </view>
+      <view
+            category="edu.iastate.hungnv.babelref.category.DataModel"
+            class="edu.iastate.hungnv.babelref.ui.views.DataModelView"
+            icon="icons/plugins.gif"
+            id="edu.iastate.hungnv.babelref.ui.views.DataModelView"
+            name="Data Model View"
+            restorable="true">
+      </view>
+      <view
+            category="edu.iastate.hungnv.babelref.category.ERef"
+            class="edu.iastate.hungnv.babelref.ui.views.ERefEntityTableView"
+            icon="icons/plugins.gif"
+            id="edu.iastate.hungnv.babelref.ui.views.ERefEntityTableView"
+            name="ERef Entity Table"
+            restorable="true">
+      </view>
+      <view
+            category="edu.iastate.hungnv.babelref.category.BabelRef"
+            class="edu.iastate.hungnv.babelref.ui.views.BabelRefEntityView"
+            icon="icons/plugins.gif"
+            id="edu.iastate.hungnv.babelref.ui.views.BabelRefEntityView"
+            name="BabelRef Entity View"
+            restorable="true">
+      </view>
+   </extension>
+
+</plugin>

@@ -20,13 +20,16 @@ This tool has been distributed as a collection of Eclipse plugin projects, that 
 - __Source__: 5 (five) Eclipse projects for this tool.
 - __Binaries_: A collection of JAR files usable as is for use in an Eclipse installation.
 
-### Description of /projects
+### Description of /Source
 Contains the following Eclipse projects:
 - __Data Model__: Symbolic executor for PHP
 - __edu.iastate.hungnv.babelref__: Eclipse plugin for showing embedded entities and dangling references (provided by edu.iastate.hungnv.babelref.ui.views.ERefEntityView)
 - __Html Partial Parser__: Parser for the output of symbolic execution
 - __Util__: Util libraries used by the other projects
 - __Web Entities__: Detection of embedded entities and dangling references
+
+### Description of /Binaries
+Contains the JAR files usable as is for use in an Eclipse installation.
 
 ## Attribution
 

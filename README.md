@@ -8,7 +8,6 @@ This repository _is not_ the original repository for this tool. Here are some li
 * [A Video of the Tool](http://home.engineering.iastate.edu/~hungnv/Research/BabelRef/?page=tool_demo)
 
 In this repository, for ExampleTool you will find:
-* :x: Source code (Available)
 * :white_check_mark: Source code
 * :white_check_mark: [The original tool](edu.iastate.hungnv.babelref.jar, Data_Model.jar, Html_Partial_Parser.jar, Util.jar, Web_Entities.jar)
 * :white_check_mark: [A slightly modified version of the tool](AnotherExecutableInTheRepo) [Mohammed H Hassan](https://github.com/mhhassan) got working

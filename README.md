@@ -18,7 +18,7 @@ This repository was constructed by [Mohammed H Hassan](https://github.com/mhhass
 
 This tool has been distributed as a collection of Eclipse plugin projects, that can be imported into Eclipse and built. The repository's root contains the following folders:
 - __Source__: 5 (five) Eclipse projects for this tool.
-- __Binaries_: A collection of JAR files usable as is for use in an Eclipse installation.
+- __Binaries__: A collection of JAR files usable as is for use in an Eclipse installation.
 
 ### Description of /Source
 Contains the following Eclipse projects:

@@ -1,7 +1,7 @@
 # ICSE-2012-BabelRef
 Detection and Renaming Tool for Cross-Language Program Entities in Dynamic Web Applications
 
-This repository is contains information related to the tool BabelRef presented in the 34th International Conference on Software Engineering (ICSE), 2012. The tool was originally presented in [this paper](http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=6227240).
+This repository contains information related to the tool BabelRef presented in the 34th International Conference on Software Engineering (ICSE), 2012. The tool was originally presented in [this paper](http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=6227240).
 
 This repository _is not_ the original repository for this tool. Here are some links to the original project:
 * [The Official Project Page, not including source code](http://home.engineering.iastate.edu/~hungnv/Research/BabelRef/)

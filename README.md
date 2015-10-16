@@ -8,8 +8,8 @@ This repository _is not_ the original repository for this tool. Here are some li
 * [A Video of the Tool](http://home.engineering.iastate.edu/~hungnv/Research/BabelRef/?page=tool_demo)
 
 In this repository, for ExampleTool you will find:
-* :white_check_mark: Source code
-* :white_check_mark: The original tool
+* :white_check_mark: [Source code](https://github.com/SoftwareEngineeringToolDemos/ICSE-2012-BabelRef/tree/master/Source)
+* :x: [The original tool]
 * :white_check_mark: A slightly modified version of the tool [Mohammed H Hassan](https://github.com/mhhassan) got working
 
 This repository was constructed by [Mohammed H Hassan](https://github.com/mhhassan) under the supervision of [Emerson Murphy-Hill](https://github.com/CaptainEmerson). Thanks to [Hung Viet Nguyen](http://home.engineering.iastate.edu/~hungnv/Personal/) for his help in establishing this repository. 

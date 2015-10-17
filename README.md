@@ -7,7 +7,7 @@ This repository _is not_ the original repository for this tool. Here are some li
 * [The Official Project Page, not including source code](http://home.engineering.iastate.edu/~hungnv/Research/BabelRef/)
 * [A Video of the Tool](http://home.engineering.iastate.edu/~hungnv/Research/BabelRef/?page=tool_demo)
 
-In this repository, for BabelRef you will find:
+In this repository, for ExampleTool you will find:
 * :white_check_mark: [Source code](https://github.com/SoftwareEngineeringToolDemos/ICSE-2012-BabelRef/tree/master/Source)
 * :white_check_mark: [Binaries](https://github.com/SoftwareEngineeringToolDemos/ICSE-2012-BabelRef/tree/master/Binaries)
 * :x: The original tool
